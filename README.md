@@ -2,7 +2,6 @@
 
 This project demonstrates how Retrieval-Augmented Generation (RAG) combined with efficient fine-tuning techniques like LoRA and qLoRA can significantly enhance the performance of Large Language Models (LLMs) while reducing resource costs. It evaluates the impact of these techniques across models such as Mistral-7B, GEMA, and LLaMA2.
 
-⸻
 
 🎯 Objective
 
